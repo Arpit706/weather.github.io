@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d98d3ef3.css",
+    "main.js": "/static/js/main.ab14adb4.js",
+    "static/media/beach-sunset android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-2ifex-2560x1600.jpg": "/static/media/beach-sunset android-iphone-desktop-hd-backgrounds-wallpapers-1080p-4k-2ifex-2560x1600.d1ed442eaf28d2a58b96.jpg",
+    "index.html": "/index.html",
+    "main.d98d3ef3.css.map": "/static/css/main.d98d3ef3.css.map",
+    "main.ab14adb4.js.map": "/static/js/main.ab14adb4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d98d3ef3.css",
+    "static/js/main.ab14adb4.js"
+  ]
+}
